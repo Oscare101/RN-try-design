@@ -395,7 +395,7 @@ export default function TryIphone(props) {
             </Card>
             <Card style={{ backgroundColor: 'green' }}>
               <LinearGradient
-                colors={['#fff', '#fff']}
+                colors={['#F95D6B', '#F9283D']}
                 style={{
                   width: '100%',
                   height: '100%',
@@ -404,7 +404,7 @@ export default function TryIphone(props) {
                   alignItems: 'center',
                 }}
               >
-                <Ionicons name="ios-musical-notes" size={40} color="#8652C8" />
+                <Ionicons name="ios-musical-notes" size={37} color="#fff" />
               </LinearGradient>
             </Card>
           </View>
