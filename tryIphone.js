@@ -419,6 +419,7 @@ const styles = StyleSheet.create({
     justifyContent: 'space-between',
     width: '100%',
     flexDirection: 'row',
+    paddingHorizontal: 8,
   },
   headerText: {
     color: '#fff',
